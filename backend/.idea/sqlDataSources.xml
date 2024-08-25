@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="96cbef01-aa70-486c-9b25-cfa79d2b6dd4" name="DDL Mapping" />
+    <mapping uuid="f6485c58-6a6a-4ca1-96b5-78e1263df891" name="book_social_network Mapping">
+      <data-sources db="583a47cc-d96a-4ba3-bf3a-cd5c46af281c" />
+    </mapping>
+  </component>
+</project>
