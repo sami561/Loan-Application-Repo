@@ -32,7 +32,7 @@ The Loan Request Application allows users to apply for loans, manage their appli
 - **Backend:** Spring Boot, Spring Security, PL/SQL
 - **Django Service:** Django, Django Rest Framework, NumPy
 - **Database:** MySQL (for Spring Boot), SQLite (for Django)
-- **Other:** Redis for task scheduling, Docker for containerization
+- **Other:** Docker for containerization
 
 ## Installation
 
