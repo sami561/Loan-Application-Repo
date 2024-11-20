@@ -28,24 +28,17 @@ The Loan Request Application allows users to apply for loans, manage their appli
 
 ## Technology Stack
 
-- **Frontend:** React.js, Bootstrap, Tailwind CSS
-- **Backend:** Spring Boot, Spring Security, PL/SQL
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Spring Boot, Spring Security
 - **Django Service:** Django, Django Rest Framework, NumPy
-- **Database:** MySQL (for Spring Boot), SQLite (for Django)
-- **Other:** Docker for containerization
+- **Database:**PostPostgreSQL
+- **Other:** Docker for containerization,jenkins
 
 ## Installation
-
-### Prerequisites
-
-- **Node.js** and **npm** installed for the frontend
-- **Java JDK** and **Maven** installed for the backend
-- **Python** and **pip** installed for the Django service
-- **Docker** installed for containerization (optional)
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/loan-request-application.git
+git clone https://github.com/sami561/loan-request-application.git
 cd loan-request-application
 ```
